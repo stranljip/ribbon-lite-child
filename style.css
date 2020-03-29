@@ -1,0 +1,18 @@
+/*
+ Theme Name: Ribbon Lite Child
+ Theme URI: https://www.heidmann.info/
+ Author: Carsten Heidmann
+ Author URI: https://www.heidmann.info/
+ Description: Extension of Ribbon Lite, excluding the metadata for the single post view
+ Version: 1.0.0
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain: ribbon-lite-child
+ Tags: two-columns, right-sidebar, left-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-images, footer-widgets, rtl-language-support, theme-options, threaded-comments, translation-ready, blog
+*/
+
+@import url("../ribbon-lite/style.css");
+
+/* Theme Anpassungen beginnen hier */
+
+/* Theme Anpassung enden hier */
