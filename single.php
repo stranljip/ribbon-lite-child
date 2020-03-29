@@ -20,7 +20,6 @@ get_header(); ?>
 			<?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
 				<div id="post-<?php the_ID(); ?>" <?php post_class('post'); ?>>
 					<div class="single_post">
-					    <div class="post-date-ribbon"><div class="corner"></div><?php the_time( get_option( 'date_format' ) ); ?></div>
 					    <?php if($ribbon_lite_single_breadcrumb_section == '1') { ?>
 							<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#"><?php ribbon_lite_the_breadcrumb(); ?></div>
 						<?php } ?>
