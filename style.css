@@ -11,3 +11,22 @@
  Text Domain: ribbon-lite-child
  Tags: two-columns, right-sidebar, left-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-images, footer-widgets, rtl-language-support, theme-options, threaded-comments, translation-ready, blog
 */
+.entry-meta {display:none !important;}
+	.home .entry-meta { display: none; }
+	.entry-footer {display:none !important;}
+	.home .entry-footer { display: none; }
+.pt-cv-readmore {
+    color: #DFE2E4 !important;
+    background-color: #7E9BB2 !important;
+    border: none !important;
+}	
+li.pll-parent-menu-item ul.sub-menu {
+	width: 60px !important;
+}
+.upw-posts .entry-image {
+	margin-bottom: 0px;
+}
+.upw-posts article {
+	margin-bottom:0.25em;
+	padding-bottom:0.25em;
+}
